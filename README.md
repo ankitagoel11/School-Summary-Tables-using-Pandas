@@ -2,7 +2,7 @@
 
 Analysis of the district-wide standardized school test results. Information available:
 
--student's math and reading scores, as well as 
+-student's math and reading scores, and
 -various information on the schools they attend. 
 
 Task is to aggregate the data  and showcase obvious trends in school performance. 
