@@ -72,8 +72,8 @@ Final report includes each of the following:
 
 **Scores by School Size**
 
-* Repeaingt the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* Repeated the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
 **Scores by School Type**
 
-* Repeating the above breakdown, but this time group schools based on school type (Charter vs. District).
+* Repeated the above breakdown, but this time group schools based on school type (Charter vs. District).
