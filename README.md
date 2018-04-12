@@ -11,7 +11,7 @@ Final report includes each of the following:
 
 **District Summary**
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* Created a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -23,7 +23,7 @@ Final report includes each of the following:
 
 **School Summary**
 
-* Create an overview table that summarizes key metrics about each school, including:
+* Created an overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -37,7 +37,7 @@ Final report includes each of the following:
 
 **Top Performing Schools (By Passing Rate)**
 
-* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
+* Created a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
   * Total Students
@@ -55,7 +55,7 @@ Final report includes each of the following:
 
 **Math Scores by Grade**
 
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* Created a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 **Reading Scores by Grade**
 
