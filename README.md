@@ -63,7 +63,7 @@ Final report includes each of the following:
 
 **Scores by School Spending**
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* Created a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
   * % Passing Math
